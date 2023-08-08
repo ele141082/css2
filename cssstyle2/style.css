@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box
+}
+
+.description-title{
+    font-size: 40px;
+    color: darkgray;
+    
+
+}
+.description{
+    background-color: aqua;
+    color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    
+}
+
+    
+
+.description2{
+    background-color: aqua;
+    color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.conteiner{
+    background-image: url(../cssstyle2/cerchio-con-x.jpg);
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+    background-size: 2%
+}
+
+.option-item{
+    padding: 10px;
+    background-image: url(../cssstyle2/cerchio-con-x.jpg);
+    background-repeat: no-repeat;
+    background-position: 80% 30%;
+    background-size: 1%;
+
+
+}
+
+.option-item--border-bottom{
+    border-bottom: 1px solid gray;
+}
+
+.option-name{
+    display: inline-block;
+    width: 20%;
+    background-image: url(../cssstyle2/cerchio-con-x.jpg);
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+    background-size: 1%;
+}
